@@ -2,8 +2,7 @@ Hello,
 <br/>
 ```javascript
 const Val = {
-  code: [C/C++, Python, HTML, CSS, JavaScript, SQL],
+  code: [C/C++, C#, Python, HTML, CSS, JavaScript, SQL],
 }
 ```
-
-<br/>
+<hr/>
