@@ -1,4 +1,4 @@
-Hello, 
+Hello, I'm Val
 ```
 Welcome to my projects and repositories.
 I'm a software analyst and developer junior, feel free to advise me about this :)
