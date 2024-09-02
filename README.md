@@ -6,5 +6,4 @@ I started learning some languages, data structures and algorithms.
 ```javascript
 C/C++, Swift, Kotlin, Java, Python, HTML, CSS, JavaScript, PHP, JSON, SQL,
 Git/GitHub, XCode, Android Studio, Figma, WordPress, Linux
-}
 ```
