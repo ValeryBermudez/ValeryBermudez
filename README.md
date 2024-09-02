@@ -5,7 +5,7 @@ I started learning some languages, data structures and algorithms.
 <br/>
 ```javascript
 const Val = {
-  code: [C/C++, Swift, Python, HTML, CSS, JavaScript, PHP, JSON, SQL],
+  code: [C/C++, Swift, Kotlin, Java, Python, HTML, CSS, JavaScript, PHP, JSON, SQL],
   technologies: [Git/GitHub, XCode, Android Studio, Figma, WordPress, Linux]
 }
 ```
